@@ -17,18 +17,18 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Git USE
-'''
+```
 git init
-'''
-'''
+```
+```
 git add .
-'''
-'''
+```
+```
 git commit -m 'initial commit'
-'''
-'''
+```
+```
 git remote er command
-'''
-'''
+```
+```
 git push -u origin master
-'''
+```
